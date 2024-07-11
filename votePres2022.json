@@ -1,0 +1,2282 @@
+{
+	"descriptorName": "Department graph with descriptions",
+	"attributesName": [
+		"ARTHAUD",
+		"POUTOU",
+		"ROUSSEL",
+		"MELENCHON",
+		"JADOT",
+		"HIDALGO",
+		"LASSALLE",
+		"MACRON",
+		"PECRESSE",
+		"ZEMMOUR",
+		"DUPONTAIGNAN",
+		"MLEPEN"
+	],
+	"vertices": [
+		{
+			"vertexId": "Ain",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Aisne",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Allier",
+			"descriptorsValues": [
+				12,
+				11,
+				6,
+				3,
+				8,
+				10,
+				7,
+				2,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Alpes-de-Haute-Provence",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				6,
+				10,
+				5,
+				3,
+				7,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Hautes-Alpes",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				2,
+				5,
+				10,
+				7,
+				1,
+				6,
+				4,
+				8,
+				3
+			]
+		},
+		{
+			"vertexId": "Alpes-Maritimes",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				8,
+				2,
+				5,
+				4,
+				7,
+				1
+			]
+		},
+		{
+			"vertexId": "Ardèche",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				6,
+				2,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Ardennes",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				6,
+				2,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Ariège",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				1,
+				7,
+				6,
+				4,
+				3,
+				8,
+				5,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Aube",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				8,
+				2,
+				5,
+				4,
+				7,
+				1
+			]
+		},
+		{
+			"vertexId": "Aude",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				7,
+				8,
+				5,
+				2,
+				6,
+				4,
+				10,
+				1
+			]
+		},
+		{
+			"vertexId": "Aveyron",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				9,
+				4,
+				1,
+				6,
+				5,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Bouches-du-Rhône",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				1,
+				5,
+				10,
+				8,
+				3,
+				6,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Calvados",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				5,
+				10,
+				7,
+				1,
+				6,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Cantal",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				9,
+				5,
+				1,
+				4,
+				6,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Charente",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				5,
+				1,
+				6,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Charente-Maritime",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Cher",
+			"descriptorsValues": [
+				12,
+				11,
+				6,
+				3,
+				8,
+				10,
+				7,
+				2,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Corrèze",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				3,
+				8,
+				9,
+				5,
+				1,
+				4,
+				6,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Côte-d'Or",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Côtes-d'Armor",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				4,
+				9,
+				7,
+				1,
+				6,
+				5,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Creuse",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				3,
+				8,
+				9,
+				5,
+				2,
+				4,
+				6,
+				10,
+				1
+			]
+		},
+		{
+			"vertexId": "Dordogne",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				3,
+				8,
+				10,
+				4,
+				2,
+				6,
+				5,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Doubs",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Drôme",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				5,
+				10,
+				7,
+				1,
+				6,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Eure",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Eure-et-Loir",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				8,
+				2,
+				5,
+				4,
+				7,
+				1
+			]
+		},
+		{
+			"vertexId": "Finistère",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				4,
+				9,
+				7,
+				1,
+				5,
+				6,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Corse-du-Sud",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				5,
+				2,
+				6,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Haute-Corse",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				3,
+				8,
+				10,
+				5,
+				2,
+				6,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Gard",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				7,
+				10,
+				6,
+				3,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Haute-Garonne",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				2,
+				5,
+				8,
+				6,
+				1,
+				7,
+				4,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Gers",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				7,
+				8,
+				4,
+				1,
+				6,
+				5,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Gironde",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				5,
+				9,
+				6,
+				1,
+				7,
+				4,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Hérault",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				5,
+				9,
+				7,
+				3,
+				6,
+				4,
+				10,
+				1
+			]
+		},
+		{
+			"vertexId": "Ille-et-Vilaine",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				2,
+				4,
+				8,
+				7,
+				1,
+				6,
+				5,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Indre",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				6,
+				2,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Indre-et-Loire",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Isère",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				5,
+				10,
+				7,
+				1,
+				6,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Jura",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Landes",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				8,
+				7,
+				4,
+				1,
+				6,
+				5,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Loir-et-Cher",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Loire",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Haute-Loire",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				6,
+				2,
+				4,
+				5,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Loire-Atlantique",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				4,
+				7,
+				9,
+				1,
+				6,
+				5,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Loiret",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Lot",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				7,
+				9,
+				4,
+				1,
+				6,
+				5,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Lot-et-Garonne",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				5,
+				2,
+				6,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Lozère",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				9,
+				4,
+				1,
+				6,
+				5,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Maine-et-Loire",
+			"descriptorsValues": [
+				12,
+				11,
+				10,
+				3,
+				4,
+				9,
+				7,
+				1,
+				6,
+				5,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Manche",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				6,
+				10,
+				7,
+				1,
+				4,
+				5,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Marne",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Haute-Marne",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				8,
+				10,
+				6,
+				2,
+				5,
+				4,
+				7,
+				1
+			]
+		},
+		{
+			"vertexId": "Mayenne",
+			"descriptorsValues": [
+				12,
+				11,
+				10,
+				3,
+				6,
+				9,
+				7,
+				1,
+				4,
+				5,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Meurthe-et-Moselle",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				5,
+				10,
+				7,
+				2,
+				6,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Meuse",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				7,
+				10,
+				6,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Morbihan",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				4,
+				10,
+				7,
+				1,
+				6,
+				5,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Moselle",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Nièvre",
+			"descriptorsValues": [
+				12,
+				11,
+				6,
+				3,
+				8,
+				10,
+				7,
+				2,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Nord",
+			"descriptorsValues": [
+				12,
+				11,
+				6,
+				3,
+				5,
+				10,
+				8,
+				2,
+				7,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Oise",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				8,
+				2,
+				5,
+				4,
+				7,
+				1
+			]
+		},
+		{
+			"vertexId": "Orne",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Pas-de-Calais",
+			"descriptorsValues": [
+				11,
+				12,
+				5,
+				3,
+				7,
+				10,
+				8,
+				2,
+				6,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Puy-de-Dôme",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				6,
+				9,
+				7,
+				1,
+				5,
+				4,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Pyrénées-Atlantiques",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				6,
+				9,
+				4,
+				1,
+				7,
+				5,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Hautes-Pyrénées",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				6,
+				9,
+				4,
+				1,
+				7,
+				5,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Pyrénées-Orientales",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				5,
+				2,
+				6,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Bas-Rhin",
+			"descriptorsValues": [
+				12,
+				11,
+				10,
+				3,
+				5,
+				9,
+				8,
+				1,
+				6,
+				4,
+				7,
+				2
+			]
+		},
+		{
+			"vertexId": "Haut-Rhin",
+			"descriptorsValues": [
+				12,
+				11,
+				10,
+				3,
+				5,
+				9,
+				8,
+				1,
+				6,
+				4,
+				7,
+				2
+			]
+		},
+		{
+			"vertexId": "Rhône",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				2,
+				5,
+				8,
+				7,
+				1,
+				6,
+				4,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Haute-Saône",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				7,
+				10,
+				6,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Saône-et-Loire",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Sarthe",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Savoie",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				5,
+				10,
+				7,
+				1,
+				6,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Haute-Savoie",
+			"descriptorsValues": [
+				12,
+				11,
+				10,
+				3,
+				5,
+				9,
+				8,
+				1,
+				6,
+				4,
+				7,
+				2
+			]
+		},
+		{
+			"vertexId": "Paris",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				2,
+				4,
+				7,
+				9,
+				1,
+				5,
+				3,
+				10,
+				6
+			]
+		},
+		{
+			"vertexId": "Seine-Maritime",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				3,
+				5,
+				10,
+				8,
+				1,
+				6,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Seine-et-Marne",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				1,
+				6,
+				10,
+				8,
+				2,
+				5,
+				4,
+				7,
+				3
+			]
+		},
+		{
+			"vertexId": "Yvelines",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				2,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				3
+			]
+		},
+		{
+			"vertexId": "Deux-Sèvres",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				4,
+				10,
+				7,
+				1,
+				5,
+				6,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Somme",
+			"descriptorsValues": [
+				11,
+				12,
+				7,
+				3,
+				6,
+				10,
+				8,
+				2,
+				5,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Tarn",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				7,
+				8,
+				4,
+				2,
+				6,
+				5,
+				10,
+				1
+			]
+		},
+		{
+			"vertexId": "Tarn-et-Garonne",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				7,
+				10,
+				5,
+				2,
+				6,
+				4,
+				9,
+				1
+			]
+		},
+		{
+			"vertexId": "Var",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Vaucluse",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				5,
+				10,
+				7,
+				2,
+				6,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Vendée",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				1,
+				5,
+				4,
+				8,
+				2
+			]
+		},
+		{
+			"vertexId": "Vienne",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				3,
+				5,
+				10,
+				7,
+				1,
+				6,
+				4,
+				9,
+				2
+			]
+		},
+		{
+			"vertexId": "Haute-Vienne",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				3,
+				8,
+				9,
+				5,
+				1,
+				6,
+				4,
+				10,
+				2
+			]
+		},
+		{
+			"vertexId": "Vosges",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Yonne",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Territoire de Belfort",
+			"descriptorsValues": [
+				12,
+				11,
+				9,
+				3,
+				6,
+				10,
+				7,
+				2,
+				5,
+				4,
+				8,
+				1
+			]
+		},
+		{
+			"vertexId": "Essonne",
+			"descriptorsValues": [
+				12,
+				11,
+				8,
+				1,
+				6,
+				10,
+				9,
+				2,
+				5,
+				4,
+				7,
+				3
+			]
+		},
+		{
+			"vertexId": "Hauts-de-Seine",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				2,
+				6,
+				9,
+				8,
+				1,
+				5,
+				4,
+				10,
+				3
+			]
+		},
+		{
+			"vertexId": "Seine-Saint-Denis",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				1,
+				5,
+				10,
+				8,
+				2,
+				6,
+				4,
+				9,
+				3
+			]
+		},
+		{
+			"vertexId": "Val-de-Marne",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				1,
+				6,
+				10,
+				9,
+				2,
+				5,
+				4,
+				8,
+				3
+			]
+		},
+		{
+			"vertexId": "Val-d'Oise",
+			"descriptorsValues": [
+				12,
+				11,
+				7,
+				1,
+				6,
+				10,
+				8,
+				2,
+				5,
+				4,
+				9,
+				3
+			]
+		}
+	],
+	"edges": [
+		{
+			"vertexId": "Ain",
+			"connected_vertices": [
+				"Isère",
+				"Jura",
+				"Rhône",
+				"Saône-et-Loire",
+				"Savoie",
+				"Haute-Savoie"
+			]
+		},
+		{
+			"vertexId": "Aisne",
+			"connected_vertices": [
+				"Ardennes",
+				"Marne",
+				"Nord",
+				"Oise",
+				"Seine-et-Marne",
+				"Somme"
+			]
+		},
+		{
+			"vertexId": "Allier",
+			"connected_vertices": [
+				"Cher",
+				"Creuse",
+				"Loire",
+				"Nièvre",
+				"Puy-de-Dôme",
+				"Saône-et-Loire"
+			]
+		},
+		{
+			"vertexId": "Alpes-de-Haute-Provence",
+			"connected_vertices": [
+				"Hautes-Alpes",
+				"Alpes-Maritimes",
+				"Drôme",
+				"Var",
+				"Vaucluse"
+			]
+		},
+		{
+			"vertexId": "Hautes-Alpes",
+			"connected_vertices": [
+				"Drôme",
+				"Isère",
+				"Savoie"
+			]
+		},
+		{
+			"vertexId": "Alpes-Maritimes",
+			"connected_vertices": [
+				"Var"
+			]
+		},
+		{
+			"vertexId": "Ardèche",
+			"connected_vertices": [
+				"Drôme",
+				"Gard",
+				"Isère",
+				"Loire",
+				"Haute-Loire",
+				"Lozère",
+				"Vaucluse"
+			]
+		},
+		{
+			"vertexId": "Ardennes",
+			"connected_vertices": [
+				"Marne",
+				"Meuse"
+			]
+		},
+		{
+			"vertexId": "Ariège",
+			"connected_vertices": [
+				"Aude",
+				"Haute-Garonne",
+				"Pyrénées-Orientales"
+			]
+		},
+		{
+			"vertexId": "Aube",
+			"connected_vertices": [
+				"Côte-d'Or",
+				"Marne",
+				"Haute-Marne",
+				"Seine-et-Marne",
+				"Yonne"
+			]
+		},
+		{
+			"vertexId": "Aude",
+			"connected_vertices": [
+				"Haute-Garonne",
+				"Hérault",
+				"Pyrénées-Orientales",
+				"Tarn"
+			]
+		},
+		{
+			"vertexId": "Aveyron",
+			"connected_vertices": [
+				"Cantal",
+				"Gard",
+				"Hérault",
+				"Lot",
+				"Lozère",
+				"Tarn",
+				"Tarn-et-Garonne"
+			]
+		},
+		{
+			"vertexId": "Bouches-du-Rhône",
+			"connected_vertices": [
+				"Gard",
+				"Var",
+				"Vaucluse"
+			]
+		},
+		{
+			"vertexId": "Calvados",
+			"connected_vertices": [
+				"Eure",
+				"Manche",
+				"Orne",
+				"Seine-Maritime"
+			]
+		},
+		{
+			"vertexId": "Cantal",
+			"connected_vertices": [
+				"Corrèze",
+				"Haute-Loire",
+				"Lot",
+				"Lozère",
+				"Puy-de-Dôme"
+			]
+		},
+		{
+			"vertexId": "Charente",
+			"connected_vertices": [
+				"Charente-Maritime",
+				"Dordogne",
+				"Deux-Sèvres",
+				"Vienne",
+				"Haute-Vienne"
+			]
+		},
+		{
+			"vertexId": "Charente-Maritime",
+			"connected_vertices": [
+				"Dordogne",
+				"Gironde",
+				"Deux-Sèvres",
+				"Vendée"
+			]
+		},
+		{
+			"vertexId": "Cher",
+			"connected_vertices": [
+				"Creuse",
+				"Indre",
+				"Loir-et-Cher",
+				"Loiret",
+				"Nièvre"
+			]
+		},
+		{
+			"vertexId": "Corrèze",
+			"connected_vertices": [
+				"Creuse",
+				"Dordogne",
+				"Lot",
+				"Puy-de-Dôme",
+				"Haute-Vienne"
+			]
+		},
+		{
+			"vertexId": "Corse-du-Sud",
+			"connected_vertices": [
+				"Haute-Corse"
+			]
+		},
+		{
+			"vertexId": "Côte-d'Or",
+			"connected_vertices": [
+				"Jura",
+				"Haute-Marne",
+				"Nièvre",
+				"Haute-Saône",
+				"Saône-et-Loire",
+				"Yonne"
+			]
+		},
+		{
+			"vertexId": "Côtes-d'Armor",
+			"connected_vertices": [
+				"Finistère",
+				"Ille-et-Vilaine",
+				"Morbihan"
+			]
+		},
+		{
+			"vertexId": "Creuse",
+			"connected_vertices": [
+				"Indre",
+				"Puy-de-Dôme",
+				"Haute-Vienne"
+			]
+		},
+		{
+			"vertexId": "Dordogne",
+			"connected_vertices": [
+				"Gironde",
+				"Lot",
+				"Lot-et-Garonne",
+				"Haute-Vienne"
+			]
+		},
+		{
+			"vertexId": "Doubs",
+			"connected_vertices": [
+				"Jura",
+				"Haute-Saône",
+				"Territoire de Belfort"
+			]
+		},
+		{
+			"vertexId": "Drôme",
+			"connected_vertices": [
+				"Isère",
+				"Vaucluse"
+			]
+		},
+		{
+			"vertexId": "Eure",
+			"connected_vertices": [
+				"Eure-et-Loir",
+				"Oise",
+				"Orne",
+				"Seine-Maritime",
+				"Yvelines",
+				"Val-d'Oise"
+			]
+		},
+		{
+			"vertexId": "Eure-et-Loir",
+			"connected_vertices": [
+				"Loir-et-Cher",
+				"Loiret",
+				"Orne",
+				"Sarthe",
+				"Yvelines",
+				"Essonne"
+			]
+		},
+		{
+			"vertexId": "Finistère",
+			"connected_vertices": [
+				"Morbihan"
+			]
+		},
+		{
+			"vertexId": "Gard",
+			"connected_vertices": [
+				"Hérault",
+				"Lozère",
+				"Vaucluse"
+			]
+		},
+		{
+			"vertexId": "Haute-Garonne",
+			"connected_vertices": [
+				"Gers",
+				"Hautes-Pyrénées",
+				"Tarn",
+				"Tarn-et-Garonne"
+			]
+		},
+		{
+			"vertexId": "Gers",
+			"connected_vertices": [
+				"Landes",
+				"Lot-et-Garonne",
+				"Pyrénées-Atlantiques",
+				"Hautes-Pyrénées",
+				"Tarn-et-Garonne"
+			]
+		},
+		{
+			"vertexId": "Gironde",
+			"connected_vertices": [
+				"Landes",
+				"Lot-et-Garonne"
+			]
+		},
+		{
+			"vertexId": "Hérault",
+			"connected_vertices": [
+				"Tarn"
+			]
+		},
+		{
+			"vertexId": "Ille-et-Vilaine",
+			"connected_vertices": [
+				"Loire-Atlantique",
+				"Maine-et-Loire",
+				"Manche",
+				"Mayenne",
+				"Morbihan"
+			]
+		},
+		{
+			"vertexId": "Indre",
+			"connected_vertices": [
+				"Indre-et-Loire",
+				"Loir-et-Cher",
+				"Vienne",
+				"Haute-Vienne"
+			]
+		},
+		{
+			"vertexId": "Indre-et-Loire",
+			"connected_vertices": [
+				"Loir-et-Cher",
+				"Maine-et-Loire",
+				"Sarthe",
+				"Vienne"
+			]
+		},
+		{
+			"vertexId": "Isère",
+			"connected_vertices": [
+				"Loire",
+				"Rhône",
+				"Savoie"
+			]
+		},
+		{
+			"vertexId": "Jura",
+			"connected_vertices": [
+				"Haute-Saône",
+				"Saône-et-Loire"
+			]
+		},
+		{
+			"vertexId": "Landes",
+			"connected_vertices": [
+				"Lot-et-Garonne",
+				"Pyrénées-Atlantiques"
+			]
+		},
+		{
+			"vertexId": "Loir-et-Cher",
+			"connected_vertices": [
+				"Loiret",
+				"Sarthe"
+			]
+		},
+		{
+			"vertexId": "Loire",
+			"connected_vertices": [
+				"Haute-Loire",
+				"Puy-de-Dôme",
+				"Rhône",
+				"Saône-et-Loire"
+			]
+		},
+		{
+			"vertexId": "Haute-Loire",
+			"connected_vertices": [
+				"Lozère",
+				"Puy-de-Dôme"
+			]
+		},
+		{
+			"vertexId": "Loire-Atlantique",
+			"connected_vertices": [
+				"Maine-et-Loire",
+				"Morbihan",
+				"Vendée"
+			]
+		},
+		{
+			"vertexId": "Loiret",
+			"connected_vertices": [
+				"Nièvre",
+				"Seine-et-Marne",
+				"Yonne",
+				"Essonne"
+			]
+		},
+		{
+			"vertexId": "Lot",
+			"connected_vertices": [
+				"Lot-et-Garonne",
+				"Tarn-et-Garonne"
+			]
+		},
+		{
+			"vertexId": "Lot-et-Garonne",
+			"connected_vertices": [
+				"Tarn-et-Garonne"
+			]
+		},
+		{
+			"vertexId": "Maine-et-Loire",
+			"connected_vertices": [
+				"Mayenne",
+				"Sarthe",
+				"Deux-Sèvres",
+				"Vendée",
+				"Vienne"
+			]
+		},
+		{
+			"vertexId": "Manche",
+			"connected_vertices": [
+				"Mayenne",
+				"Orne"
+			]
+		},
+		{
+			"vertexId": "Marne",
+			"connected_vertices": [
+				"Haute-Marne",
+				"Meuse",
+				"Seine-et-Marne"
+			]
+		},
+		{
+			"vertexId": "Haute-Marne",
+			"connected_vertices": [
+				"Meuse",
+				"Haute-Saône",
+				"Vosges"
+			]
+		},
+		{
+			"vertexId": "Mayenne",
+			"connected_vertices": [
+				"Orne",
+				"Sarthe"
+			]
+		},
+		{
+			"vertexId": "Meurthe-et-Moselle",
+			"connected_vertices": [
+				"Meuse",
+				"Moselle",
+				"Bas-Rhin",
+				"Vosges"
+			]
+		},
+		{
+			"vertexId": "Meuse",
+			"connected_vertices": [
+				"Vosges"
+			]
+		},
+		{
+			"vertexId": "Moselle",
+			"connected_vertices": [
+				"Bas-Rhin"
+			]
+		},
+		{
+			"vertexId": "Nièvre",
+			"connected_vertices": [
+				"Saône-et-Loire",
+				"Yonne"
+			]
+		},
+		{
+			"vertexId": "Nord",
+			"connected_vertices": [
+				"Pas-de-Calais",
+				"Somme"
+			]
+		},
+		{
+			"vertexId": "Oise",
+			"connected_vertices": [
+				"Seine-Maritime",
+				"Seine-et-Marne",
+				"Somme",
+				"Val-d'Oise"
+			]
+		},
+		{
+			"vertexId": "Orne",
+			"connected_vertices": [
+				"Sarthe"
+			]
+		},
+		{
+			"vertexId": "Pas-de-Calais",
+			"connected_vertices": [
+				"Somme"
+			]
+		},
+		{
+			"vertexId": "Pyrénées-Atlantiques",
+			"connected_vertices": [
+				"Hautes-Pyrénées"
+			]
+		},
+		{
+			"vertexId": "Bas-Rhin",
+			"connected_vertices": [
+				"Haut-Rhin",
+				"Vosges"
+			]
+		},
+		{
+			"vertexId": "Haut-Rhin",
+			"connected_vertices": [
+				"Vosges",
+				"Territoire de Belfort"
+			]
+		},
+		{
+			"vertexId": "Rhône",
+			"connected_vertices": [
+				"Saône-et-Loire"
+			]
+		},
+		{
+			"vertexId": "Haute-Saône",
+			"connected_vertices": [
+				"Vosges",
+				"Territoire de Belfort"
+			]
+		},
+		{
+			"vertexId": "Savoie",
+			"connected_vertices": [
+				"Haute-Savoie"
+			]
+		},
+		{
+			"vertexId": "Paris",
+			"connected_vertices": [
+				"Hauts-de-Seine",
+				"Seine-Saint-Denis",
+				"Val-de-Marne"
+			]
+		},
+		{
+			"vertexId": "Seine-Maritime",
+			"connected_vertices": [
+				"Somme"
+			]
+		},
+		{
+			"vertexId": "Seine-et-Marne",
+			"connected_vertices": [
+				"Yonne",
+				"Essonne",
+				"Seine-Saint-Denis",
+				"Val-de-Marne",
+				"Val-d'Oise"
+			]
+		},
+		{
+			"vertexId": "Yvelines",
+			"connected_vertices": [
+				"Essonne",
+				"Hauts-de-Seine",
+				"Val-d'Oise"
+			]
+		},
+		{
+			"vertexId": "Deux-Sèvres",
+			"connected_vertices": [
+				"Vendée",
+				"Vienne"
+			]
+		},
+		{
+			"vertexId": "Tarn",
+			"connected_vertices": [
+				"Tarn-et-Garonne"
+			]
+		},
+		{
+			"vertexId": "Var",
+			"connected_vertices": [
+				"Vaucluse"
+			]
+		},
+		{
+			"vertexId": "Vienne",
+			"connected_vertices": [
+				"Haute-Vienne"
+			]
+		},
+		{
+			"vertexId": "Vosges",
+			"connected_vertices": [
+				"Territoire de Belfort"
+			]
+		},
+		{
+			"vertexId": "Essonne",
+			"connected_vertices": [
+				"Hauts-de-Seine",
+				"Val-de-Marne"
+			]
+		},
+		{
+			"vertexId": "Hauts-de-Seine",
+			"connected_vertices": [
+				"Seine-Saint-Denis",
+				"Val-de-Marne",
+				"Val-d'Oise"
+			]
+		},
+		{
+			"vertexId": "Seine-Saint-Denis",
+			"connected_vertices": [
+				"Val-de-Marne",
+				"Val-d'Oise"
+			]
+		}
+	]
+}
