@@ -51,4 +51,4 @@ python generateGraph.py 2022
       └── votePres2022.json
 
 ## Authors
-Maurand Pierre - maurand14000@gmail.com
+Maurand Julia - maurand14000@gmail.com
